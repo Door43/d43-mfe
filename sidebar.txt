@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mfe:home|Door43 (mfe)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mfe|d43-mfe repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mfe/archive/master.zip|d43-mfe.zip]]
+
+**Recent Changes**
+{{changes>ns = mfe}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mfe|Ethnologue data]]
+
